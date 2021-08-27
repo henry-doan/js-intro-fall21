@@ -1,7 +1,7 @@
-// document.getElementById("demo").innerHTML = "Hello World"
+document.getElementById("demo").innerHTML = "Hello World"
 
-pressBtn = () => {
-  document.getElementById("grapes").innerHTML = "Bye World"
+btnPress = () => {
+  document.getElementById("demo").innerHTML = "Bye World"
 }
 
-// this is a comment too
+// this is a comment
